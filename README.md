@@ -1,42 +1,18 @@
-<!-- HEADER -->
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=auto&text=Hi,%20I'm%20PKW&fontColor=FFFFFF&fontAlign=26&fontAlignY=42)
 
-<!--- 인삿말 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPKW19&count_bg=%238BF5DF&title_bg=%2395AA51&icon=amd.svg&icon_color=%23D5A6A6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![커버](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=코딩으로%20세상을%20바꾸자&animation=fadeIn&fontSize=50&fontAlign=50&fontAlignY=35)
+## 안녕하세요, BE 개발자로 성장해나가는 박경우입니다!
 
-<div align="center">
+## Interests
+![java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk)
+![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![javascript](https://img.shields.io/badge/java%20script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPKW19&edge_flat=false&title=hits)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKW19&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKW19&layout=compact)
 
+![PKW19's GitHub stats](https://github-readme-stats.vercel.app/api?username=PKW19&show_icons=true&theme=radical)
 
-<!-- '' 한줄 코드 -->
-### 👋 안녕하세요! 자반 기반 `풀스택 개발자` 박경우입니다.
-
-<!-- 위젯 -->
-<!-- 1. 커버 -->
-
-<!-- ![커버](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=코딩으로%20세상을%20바꾸자&animation=fadeIn&fontSize=50&fontAlign=50&fontAlignY=35) -->
-
-* 저는 `풀스택`을 준비하고 있는 박경우 입니다.
-* `대용량 서비스 처리`를 중심으로 사이드 포르젝트 진행중
-* `알고리즘` 및 `CS스터디`를 운영하고 있습니다.
-* `정보처리기사` 및 `SQL 자격증`을 취득했습니다.
-
-<!-- Body -->
-
-<!-- ![로고명](https://img.shields.io/badge/로고명-배경색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상이름) -->
-
-### ⚙️ MY TECH STACK
-![JAVA](https://img.shields.io/badge/java-000000.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상이름)
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=FFFFFF)
-![Apache Tomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75.svg?&style=for-the-badge&logo=ApacheTomcat&logoColor=000000)
-
-
-### 🪛 MY TOOL STACK
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=FFFFFF)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=FFFFFF)
